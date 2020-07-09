@@ -1,4 +1,4 @@
-#9
+
 pocket_num = int(input("Please enter a pocket number: "))
 
 if pocket_num < 0 or pocket_num > 36:
